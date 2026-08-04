@@ -148,3 +148,12 @@ body {
     text-align: center;
     margin: 50px 0px 0px 0px;
 }
+
+
+/* footer style  */
+
+footer{
+  display: flex;
+  padding: 130px 230px;
+  gap: 100px;
+}
